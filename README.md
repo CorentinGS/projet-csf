@@ -2,6 +2,6 @@
 
 ## Commandante 
 
-Le commandate est une station météo avec une interface web
+Le Commandante est une station météo avec une interface web
 
 
