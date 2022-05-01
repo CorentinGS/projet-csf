@@ -1,3 +1,6 @@
 [submodule "csf-api"]
 	path = csf-api
 	url = https://github.com/CorentinGS/csf-api.git
+[submodule "csf-website"]
+	path = csf-website
+	url = https://github.com/CorentinGS/csf-website.git
