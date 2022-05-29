@@ -27,7 +27,6 @@ Le Commandante est une station météo avec une interface web permettant de visu
 
 ### Données
 - [ ] Température
-- [ ] Pression
 - [ ] Vent
 - [ ] Humidité
 - [ ] Luminosité
