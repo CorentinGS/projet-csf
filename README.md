@@ -55,10 +55,5 @@ L'interface web est écrite en HTML/CSS/JS et TailwindCSS
 
 ### Carte éléctronique et capteurs
 
-Les capteurs sont branchés à un raspberry PI 
-
-## Capteurs utilisés
-
-- ... 
-- ...
-
+Les capteurs sont branchés à l'arduino qui transmet en série à un raspberry PI où les données sont conservés dans la base de données et accessible via l'api.  
+Un serveur web permet d'accéder au flux vidéo de la caméra (en mjpeg) et un réseau wifi permet d'étendre le projet avec d'autres raspberry pi qui peuvent directement communniquer avec l'api. 
